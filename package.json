@@ -1,0 +1,34 @@
+{
+    "name": "node-express4-restful-api",
+    "version": "4.15.2",
+    "description": "RESTful-API-Node-Express4, xgqfrms",
+    "main": "index.js",
+    "scripts": {
+        "run": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xgqfrms/node-express4-restful-api.git"
+    },
+    "keywords": [
+        "RESTful",
+        "API",
+        "Node",
+        "Express4",
+        "MongoDB",
+        "Mongoose"
+    ],
+    "author": "xgqfrms, webgeeker",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xgqfrms/node-express4-restful-api/issues"
+    },
+    "homepage": "https://github.com/xgqfrms/node-express4-restful-api#readme",
+    "dependencies": {
+        "body-parser": "^1.17.1",
+        "express": "^4.15.2",
+        "mongoose": "^4.9.8",
+        "morgan": "^1.8.1"
+    }
+}
+
